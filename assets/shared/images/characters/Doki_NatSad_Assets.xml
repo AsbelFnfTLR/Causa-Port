@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Doki_NatSad_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SadNat Down0000" x="2.5" y="2.5" width="182.5" height="262" frameX="-0.5" frameY="-5" frameWidth="366" frameHeight="535"/>
+	<SubTexture name="SadNat Down0001" x="2.5" y="2.5" width="182.5" height="262" frameX="-0.5" frameY="-5" frameWidth="366" frameHeight="535"/>
+	<SubTexture name="SadNat Down0002" x="187.5" y="2.5" width="181" height="261.5" frameX="-1" frameY="-5.5" frameWidth="366" frameHeight="535"/>
+	<SubTexture name="SadNat Down0003" x="187.5" y="2.5" width="181" height="261.5" frameX="-1" frameY="-5.5" frameWidth="366" frameHeight="535"/>
+	<SubTexture name="SadNat Down0004" x="371" y="2.5" width="180.5" height="266.5" frameX="-0.5" frameY="-1" frameWidth="366" frameHeight="535"/>
+	<SubTexture name="SadNat Down0005" x="371" y="2.5" width="180.5" height="266.5" frameX="-0.5" frameY="-1" frameWidth="366" frameHeight="535"/>
+	<SubTexture name="SadNat Down0006" x="554" y="2.5" width="181.5" height="267" frameX="0" frameY="0" frameWidth="366" frameHeight="535"/>
+	<SubTexture name="SadNat Down0007" x="554" y="2.5" width="181.5" height="267" frameX="0" frameY="0" frameWidth="366" frameHeight="535"/>
+	
+	<SubTexture name="SadNat EyeBurst0000" x="738" y="2.5" width="170.5" height="258.5" frameX="-131" frameY="-36" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0001" x="738" y="2.5" width="170.5" height="258.5" frameX="-131" frameY="-36" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0002" x="911" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0003" x="911" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0004" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0005" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0006" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0007" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0008" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0009" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0010" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0011" x="1087" y="2.5" width="174" height="262.5" frameX="-118" frameY="-32" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0012" x="1263.5" y="2.5" width="171" height="261.5" frameX="-133.5" frameY="-33" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0013" x="1263.5" y="2.5" width="171" height="261.5" frameX="-133.5" frameY="-33" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0014" x="1437" y="2.5" width="172.5" height="263.5" frameX="-124.5" frameY="-31" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0015" x="1437" y="2.5" width="172.5" height="263.5" frameX="-124.5" frameY="-31" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0016" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0017" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0018" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0019" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0020" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0021" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0022" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0023" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0024" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+    <SubTexture name="SadNat EyeBurst0025" x="1612" y="2.5" width="173.5" height="262.5" frameX="-120.5" frameY="-32" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0026" x="1788" y="2.5" width="172" height="264" frameX="-128" frameY="-30.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0027" x="1788" y="2.5" width="172" height="264" frameX="-128" frameY="-30.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0028" x="1962.5" y="2.5" width="208.5" height="284.5" frameX="-56.5" frameY="-9" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0029" x="2173.5" y="2.5" width="216.5" height="248.5" frameX="-33" frameY="-45" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0030" x="2392.5" y="2.5" width="216.5" height="248.5" frameX="-33" frameY="-45" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0031" x="2611.5" y="2.5" width="207" height="248" frameX="-46" frameY="-45.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0032" x="2821" y="2.5" width="250" height="248" frameX="-46" frameY="-45.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0033" x="3073.5" y="2.5" width="265.5" height="288" frameX="-30.5" frameY="-5.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0034" x="3341.5" y="2.5" width="306" height="288" frameX="-30.5" frameY="-5.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0035" x="3650" y="2.5" width="297" height="293.5" frameX="-39.5" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0036" x="2.5" y="298.5" width="301.5" height="293.5" frameX="-39.5" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0037" x="306.5" y="298.5" width="299.5" height="290" frameX="-41.5" frameY="-3.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0038" x="608.5" y="298.5" width="340" height="290" frameX="-19" frameY="-3.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0039" x="951" y="298.5" width="340" height="290.5" frameX="-19" frameY="-3" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0040" x="1293.5" y="298.5" width="359.5" height="290.5" frameX="-8" frameY="-3" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0041" x="1655.5" y="298.5" width="359.5" height="293.5" frameX="-8" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0042" x="2017.5" y="298.5" width="365" height="293.5" frameX="-4.5" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0043" x="2385" y="298.5" width="365" height="290" frameX="-4.5" frameY="-3.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0044" x="2752.5" y="298.5" width="374.5" height="290" frameX="0" frameY="-3.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0045" x="3129.5" y="298.5" width="374.5" height="290.5" frameX="0" frameY="-3" frameWidth="749" frameHeight="589"/>
+	
+	<SubTexture name="SadNat EyeBurst0046" x="3506.5" y="298.5" width="224.5" height="290.5" frameX="-37" frameY="-3" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0047" x="3733.5" y="298.5" width="218.5" height="293.5" frameX="-39.5" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0048" x="3733.5" y="298.5" width="218.5" height="293.5" frameX="-39.5" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0049" x="2.5" y="594.5" width="218" height="290" frameX="-42.5" frameY="-3.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0050" x="2.5" y="594.5" width="218" height="290" frameX="-42.5" frameY="-3.5" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0051" x="3506.5" y="298.5" width="224.5" height="290.5" frameX="-37" frameY="-3" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0052" x="3506.5" y="298.5" width="224.5" height="290.5" frameX="-37" frameY="-3" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0053" x="3733.5" y="298.5" width="218.5" height="293.5" frameX="-39.5" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0054" x="3733.5" y="298.5" width="218.5" height="293.5" frameX="-39.5" frameY="0" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0055" x="223" y="594.5" width="223" height="290.5" frameX="-37" frameY="-3" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0056" x="223" y="594.5" width="223" height="290.5" frameX="-37" frameY="-3" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0057" x="448.5" y="594.5" width="223" height="290.5" frameX="-39.5" frameY="-6" frameWidth="749" frameHeight="589"/>
+	<SubTexture name="SadNat EyeBurst0058" x="448.5" y="594.5" width="223" height="290.5" frameX="-39.5" frameY="-6" frameWidth="749" frameHeight="589"/>
+	
+	<SubTexture name="SadNat Idle0000" x="674" y="594.5" width="167" height="282" frameX="-1" frameY="0" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0001" x="674" y="594.5" width="167" height="282" frameX="-1" frameY="0" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0002" x="843.5" y="594.5" width="168" height="281.5" frameX="0" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0003" x="843.5" y="594.5" width="168" height="281.5" frameX="0" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0004" x="1014" y="594.5" width="168" height="281.5" frameX="-0.5" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0005" x="1014" y="594.5" width="168" height="281.5" frameX="-0.5" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0006" x="1184.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0007" x="1184.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0008" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+	<SubTexture name="SadNat Idle0009" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0010" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0011" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0012" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0013" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0014" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0015" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0016" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0017" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0018" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    <SubTexture name="SadNat Idle0019" x="1354.5" y="594.5" width="167.5" height="281.5" frameX="-1" frameY="-0.5" frameWidth="337" frameHeight="564"/>
+    
+	<SubTexture name="SadNat Left0000" x="1524.5" y="594.5" width="207" height="288" frameX="0" frameY="-5" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0001" x="1524.5" y="594.5" width="207" height="288" frameX="0" frameY="-5" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0002" x="1734" y="594.5" width="206" height="287.5" frameX="-0.5" frameY="-5.5" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0003" x="1734" y="594.5" width="206" height="287.5" frameX="-0.5" frameY="-5.5" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0004" x="1942.5" y="594.5" width="213.5" height="287.5" frameX="-1.5" frameY="-0.5" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0005" x="1942.5" y="594.5" width="213.5" height="287.5" frameX="-1.5" frameY="-0.5" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0006" x="2158.5" y="594.5" width="214" height="293" frameX="-1.5" frameY="0" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0007" x="2158.5" y="594.5" width="214" height="293" frameX="-1.5" frameY="0" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0008" x="2375" y="594.5" width="214" height="293" frameX="-1.5" frameY="0" frameWidth="431" frameHeight="586"/>
+	<SubTexture name="SadNat Left0009" x="2375" y="594.5" width="214" height="293" frameX="-1.5" frameY="0" frameWidth="431" frameHeight="586"/>
+	
+	<SubTexture name="SadNat Right0000" x="2591.5" y="594.5" width="200.5" height="268" frameX="-1" frameY="-2" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="SadNat Right0001" x="2591.5" y="594.5" width="200.5" height="268" frameX="-1" frameY="-2" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="SadNat Right0002" x="2794.5" y="594.5" width="201" height="267.5" frameX="0" frameY="-2.5" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="SadNat Right0003" x="2794.5" y="594.5" width="201" height="267.5" frameX="0" frameY="-2.5" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="SadNat Right0004" x="2998" y="594.5" width="198" height="269.5" frameX="0" frameY="-0.5" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="SadNat Right0005" x="2998" y="594.5" width="198" height="269.5" frameX="0" frameY="-0.5" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="SadNat Right0006" x="3198.5" y="594.5" width="197" height="270" frameX="-0.5" frameY="0" frameWidth="403" frameHeight="540"/>
+	<SubTexture name="SadNat Right0007" x="3198.5" y="594.5" width="197" height="270" frameX="-0.5" frameY="0" frameWidth="403" frameHeight="540"/>
+	
+	<SubTexture name="SadNat Up0000" x="3398" y="594.5" width="194" height="297" frameX="-0.5" frameY="0" frameWidth="392" frameHeight="595"/>
+	<SubTexture name="SadNat Up0001" x="3398" y="594.5" width="194" height="297" frameX="-0.5" frameY="0" frameWidth="392" frameHeight="595"/>
+	<SubTexture name="SadNat Up0002" x="3594.5" y="594.5" width="194.5" height="296.5" frameX="0" frameY="-0.5" frameWidth="392" frameHeight="595"/>
+	<SubTexture name="SadNat Up0003" x="3594.5" y="594.5" width="194.5" height="296.5" frameX="0" frameY="-0.5" frameWidth="392" frameHeight="595"/>
+	<SubTexture name="SadNat Up0004" x="3791.5" y="594.5" width="194.5" height="293.5" frameX="-1" frameY="-4" frameWidth="392" frameHeight="595"/>
+	<SubTexture name="SadNat Up0005" x="3791.5" y="594.5" width="194.5" height="293.5" frameX="-1" frameY="-4" frameWidth="392" frameHeight="595"/>
+	<SubTexture name="SadNat Up0006" x="2.5" y="894" width="195" height="292" frameX="-1" frameY="-5" frameWidth="392" frameHeight="595"/>
+	<SubTexture name="SadNat Up0007" x="2.5" y="894" width="195" height="292" frameX="-1" frameY="-5" frameWidth="392" frameHeight="595"/>
+</TextureAtlas>
